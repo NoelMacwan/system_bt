@@ -1043,7 +1043,6 @@ void btm_use_preferred_conn_params(BD_ADDR bda) {
 }
 #endif
 
-
 /*******************************************************************************
 **
 ** Function         btm_read_remote_version_complete

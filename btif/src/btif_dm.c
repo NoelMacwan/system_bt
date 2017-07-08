@@ -3980,4 +3980,3 @@ UINT16 btif_dm_get_le_links()
     BTIF_TRACE_DEBUG("LE Link count: %d", num_active_le_links);
     return num_active_le_links;
 }
-
